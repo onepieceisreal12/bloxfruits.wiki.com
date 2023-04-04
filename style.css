@@ -112,8 +112,9 @@ footer {
 }
 
 .footer {
-    font-size:33px;
+    font-size:25px;
     color:white;
+    float:left;
 }
 
 
