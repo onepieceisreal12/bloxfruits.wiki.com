@@ -105,4 +105,17 @@ h5 {
     background-color: black;
 }
 
+footer {
+    height:80px
+    background-color:black;
+    border-top:3px solid grey;   
+}
+
+.footer {
+    font-size:40px;
+    color:white;
+}
+
+
+
 
