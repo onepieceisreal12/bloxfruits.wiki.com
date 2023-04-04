@@ -141,3 +141,14 @@ span:hover {
 .nice {
     border-bottom: 3px solid white;
 }
+
+footer {
+    height:80px
+    background-color:black;
+    border-top:3px solid white;   
+}
+
+.footer {
+    font-size:25px;
+    color:white;
+}
